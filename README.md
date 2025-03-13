@@ -1,10 +1,6 @@
 ## 💜 Welcome! 💜
 
-<div style="display: inline_block">
-   <a href="https://github.com/taorodrigueswork">
-   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=taorodrigueswork&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taorodrigueswork&layout=compact&langs_count=12&theme=midnight-purple"/>
-</div>
+
 
   ### 💻 Languages, Frameworks, Libraries
 <div style="display: inline_block">
